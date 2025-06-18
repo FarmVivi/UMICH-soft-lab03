@@ -35,6 +35,10 @@ public class Order {
         return "";
     }
 
+    public void addProduct(double price) {
+        // TODO implement here
+    }
+
     public void setTotalPrice(double price) {
         // TODO implement here
     }
