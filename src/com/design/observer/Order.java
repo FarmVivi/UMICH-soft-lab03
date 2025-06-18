@@ -35,6 +35,10 @@ public class Order {
         return "";
     }
 
+    public void notifyObservers() {
+        // TODO implement here
+    }
+
     public void addProduct(double price) {
         // TODO implement here
     }
